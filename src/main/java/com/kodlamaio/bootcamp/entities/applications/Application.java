@@ -42,8 +42,4 @@ public class Application {
 	@Column(name="state") 
 	private int state;
 	
-	
-	
-	
-	
 }

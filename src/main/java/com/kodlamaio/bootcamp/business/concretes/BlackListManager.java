@@ -23,8 +23,7 @@ import com.kodlamaio.bootcamp.core.utilities.results.SuccessDataResult;
 import com.kodlamaio.bootcamp.core.utilities.results.SuccessResult;
 import com.kodlamaio.bootcamp.dataAccess.abstracts.BlackListRepository;
 import com.kodlamaio.bootcamp.entities.BlackList;
-import com.kodlamaio.bootcamp.entities.applications.Application;
-import com.kodlamaio.bootcamp.entities.users.Applicant;
+
 
 import lombok.AllArgsConstructor;
 @Service

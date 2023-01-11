@@ -22,7 +22,7 @@ import com.kodlamaio.bootcamp.business.responses.blackList.GetBlackListResponse;
 import com.kodlamaio.bootcamp.business.responses.blackList.UpdateBlackListResponse;
 import com.kodlamaio.bootcamp.core.utilities.results.DataResult;
 import com.kodlamaio.bootcamp.core.utilities.results.Result;
-import com.kodlamaio.bootcamp.dataAccess.abstracts.BlackListRepository;
+
 
 import lombok.AllArgsConstructor;
 

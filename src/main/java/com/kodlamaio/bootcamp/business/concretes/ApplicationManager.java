@@ -23,9 +23,7 @@ import com.kodlamaio.bootcamp.core.utilities.results.Result;
 import com.kodlamaio.bootcamp.core.utilities.results.SuccessDataResult;
 import com.kodlamaio.bootcamp.core.utilities.results.SuccessResult;
 import com.kodlamaio.bootcamp.dataAccess.applications.ApplicationRepository;
-import com.kodlamaio.bootcamp.entities.Bootcamp;
 import com.kodlamaio.bootcamp.entities.applications.Application;
-import com.kodlamaio.bootcamp.entities.users.Applicant;
 
 import lombok.AllArgsConstructor;
 

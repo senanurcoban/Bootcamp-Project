@@ -2,8 +2,6 @@ package com.kodlamaio.bootcamp.business.responses.blackList;
 
 import java.time.LocalDate;
 
-import com.kodlamaio.bootcamp.entities.users.Applicant;
-
 import lombok.AllArgsConstructor;
 import lombok.Data;
 import lombok.NoArgsConstructor;

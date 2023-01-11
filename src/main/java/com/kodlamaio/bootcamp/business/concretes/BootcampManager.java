@@ -23,7 +23,7 @@ import com.kodlamaio.bootcamp.core.utilities.results.SuccessDataResult;
 import com.kodlamaio.bootcamp.core.utilities.results.SuccessResult;
 import com.kodlamaio.bootcamp.dataAccess.abstracts.BootcampRepository;
 import com.kodlamaio.bootcamp.entities.Bootcamp;
-import com.kodlamaio.bootcamp.entities.users.Instructor;
+
 
 import lombok.AllArgsConstructor;
 
