@@ -124,15 +124,8 @@ public class BlackListManager implements BlackListService{
 			
 			throw new BusinessException("tabloda bu kısı var zaten");
 		}
-		return blackList*/
+		return blackList;*/
 	}
-	
-//	private void checkIfApplicantExists(int applicantId) {
-//		//Applicant applicant  = blackListRepositoVry.findByApplicantId(applicantId);
-//		if (applicant == null) {
-//			throw new BusinessException(Messages.ApplicantNoExists);
-//		}
-//	}
 	private LocalDate dateParse(String date) {
 		return LocalDate.parse(date);
 	}

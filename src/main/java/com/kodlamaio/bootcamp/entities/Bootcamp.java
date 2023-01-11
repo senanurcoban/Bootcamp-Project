@@ -45,8 +45,6 @@ public class Bootcamp {
 	@Column(name="state")
 	private int state;
 	
-	
-	
 	@ManyToOne
 	@JoinColumn(name="instructor_id")
 	private Instructor instructor;

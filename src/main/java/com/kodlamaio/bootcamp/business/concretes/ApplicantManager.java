@@ -3,7 +3,6 @@ package com.kodlamaio.bootcamp.business.concretes;
 import java.time.LocalDate;
 import java.util.List;
 import java.util.stream.Collectors;
-
 import org.springframework.stereotype.Service;
 import com.kodlamaio.bootcamp.business.abstracts.ApplicantService;
 import com.kodlamaio.bootcamp.business.constants.Messages;
