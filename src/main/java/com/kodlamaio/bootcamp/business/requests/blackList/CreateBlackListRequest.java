@@ -1,6 +1,6 @@
 package com.kodlamaio.bootcamp.business.requests.blackList;
 
-import java.time.LocalDate;
+
 
 import javax.validation.constraints.Min;
 import javax.validation.constraints.NotEmpty;
@@ -8,7 +8,7 @@ import javax.validation.constraints.NotNull;
 
 import org.hibernate.annotations.CreationTimestamp;
 
-import com.fasterxml.jackson.annotation.JsonFormat;
+
 
 
 import lombok.AllArgsConstructor;
