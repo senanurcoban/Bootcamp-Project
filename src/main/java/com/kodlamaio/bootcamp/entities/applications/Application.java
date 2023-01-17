@@ -2,19 +2,14 @@ package com.kodlamaio.bootcamp.entities.applications;
 
 import javax.persistence.Column;
 import javax.persistence.Entity;
-
 import javax.persistence.GeneratedValue;
 import javax.persistence.GenerationType;
 import javax.persistence.Id;
 import javax.persistence.JoinColumn;
 import javax.persistence.ManyToOne;
 import javax.persistence.Table;
-
-
 import com.kodlamaio.bootcamp.entities.Bootcamp;
 import com.kodlamaio.bootcamp.entities.users.Applicant;
-
-
 import lombok.AllArgsConstructor;
 import lombok.Data;
 import lombok.NoArgsConstructor;

@@ -3,6 +3,7 @@ package com.kodlamaio.bootcamp.business.responses.application;
 import lombok.AllArgsConstructor;
 import lombok.Data;
 import lombok.NoArgsConstructor;
+
 @Data
 @AllArgsConstructor
 @NoArgsConstructor

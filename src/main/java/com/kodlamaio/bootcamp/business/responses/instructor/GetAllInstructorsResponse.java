@@ -1,7 +1,6 @@
 package com.kodlamaio.bootcamp.business.responses.instructor;
 
 import java.time.LocalDate;
-
 import lombok.AllArgsConstructor;
 import lombok.Data;
 import lombok.NoArgsConstructor;

@@ -22,7 +22,6 @@ import com.kodlamaio.bootcamp.core.utilities.results.SuccessDataResult;
 import com.kodlamaio.bootcamp.core.utilities.results.SuccessResult;
 import com.kodlamaio.bootcamp.dataAccess.applications.ApplicationRepository;
 import com.kodlamaio.bootcamp.entities.applications.Application;
-
 import lombok.AllArgsConstructor;
 
 @Service

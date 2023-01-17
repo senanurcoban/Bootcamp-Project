@@ -20,9 +20,8 @@ import com.kodlamaio.bootcamp.core.utilities.results.SuccessDataResult;
 import com.kodlamaio.bootcamp.core.utilities.results.SuccessResult;
 import com.kodlamaio.bootcamp.dataAccess.abstracts.ApplicantRepository;
 import com.kodlamaio.bootcamp.entities.users.Applicant;
-
-
 import lombok.AllArgsConstructor;
+
 @AllArgsConstructor
 @Service
 public class ApplicantManager implements ApplicantService {

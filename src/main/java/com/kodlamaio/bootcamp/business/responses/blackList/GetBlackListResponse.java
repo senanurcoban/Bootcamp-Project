@@ -1,11 +1,10 @@
 package com.kodlamaio.bootcamp.business.responses.blackList;
 
 import java.time.LocalDate;
-
-
 import lombok.AllArgsConstructor;
 import lombok.Data;
 import lombok.NoArgsConstructor;
+
 @Data
 @NoArgsConstructor
 @AllArgsConstructor

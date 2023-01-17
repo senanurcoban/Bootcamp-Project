@@ -3,9 +3,7 @@ package com.kodlamaio.bootcamp.business.concretes;
 import java.time.LocalDate;
 import java.util.List;
 import java.util.stream.Collectors;
-
 import org.springframework.stereotype.Service;
-
 import com.kodlamaio.bootcamp.business.abstracts.ApplicantService;
 import com.kodlamaio.bootcamp.business.abstracts.BlackListService;
 import com.kodlamaio.bootcamp.business.constants.Messages;
@@ -23,9 +21,8 @@ import com.kodlamaio.bootcamp.core.utilities.results.SuccessDataResult;
 import com.kodlamaio.bootcamp.core.utilities.results.SuccessResult;
 import com.kodlamaio.bootcamp.dataAccess.abstracts.BlackListRepository;
 import com.kodlamaio.bootcamp.entities.BlackList;
-
-
 import lombok.AllArgsConstructor;
+
 @Service
 @AllArgsConstructor
 public class BlackListManager implements BlackListService{

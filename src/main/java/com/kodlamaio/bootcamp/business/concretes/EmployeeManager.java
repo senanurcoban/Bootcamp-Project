@@ -3,9 +3,7 @@ package com.kodlamaio.bootcamp.business.concretes;
 import java.time.LocalDate;
 import java.util.List;
 import java.util.stream.Collectors;
-
 import org.springframework.stereotype.Service;
-
 import com.kodlamaio.bootcamp.business.abstracts.EmployeeService;
 import com.kodlamaio.bootcamp.business.constants.Messages;
 import com.kodlamaio.bootcamp.business.requests.employee.CreateEmployeeRequest;
@@ -22,9 +20,8 @@ import com.kodlamaio.bootcamp.core.utilities.results.SuccessDataResult;
 import com.kodlamaio.bootcamp.core.utilities.results.SuccessResult;
 import com.kodlamaio.bootcamp.dataAccess.abstracts.EmployeeRepository;
 import com.kodlamaio.bootcamp.entities.users.Employee;
-
-
 import lombok.AllArgsConstructor;
+
 @AllArgsConstructor
 @Service
 public class EmployeeManager implements EmployeeService {

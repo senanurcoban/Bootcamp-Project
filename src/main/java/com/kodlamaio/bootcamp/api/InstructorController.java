@@ -1,9 +1,7 @@
 package com.kodlamaio.bootcamp.api;
 
 import java.util.List;
-
 import javax.validation.Valid;
-
 import org.springframework.web.bind.annotation.DeleteMapping;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PathVariable;
@@ -21,7 +19,6 @@ import com.kodlamaio.bootcamp.business.responses.instructor.GetInstructorRespons
 import com.kodlamaio.bootcamp.business.responses.instructor.UpdateInstructorResponse;
 import com.kodlamaio.bootcamp.core.utilities.results.DataResult;
 import com.kodlamaio.bootcamp.core.utilities.results.Result;
-
 import lombok.AllArgsConstructor;
 
 @RestController
